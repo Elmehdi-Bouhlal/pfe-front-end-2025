@@ -20,7 +20,7 @@
           <div class="lg:col-span-2">
             <div class="bg-gray-800 rounded-xl shadow-xl overflow-hidden">
               <div class="p-6 border-b border-gray-700">
-                <h2 class="text-2xl font-bold mb-1">Vérifier et s'abonner</h2>
+                <h2 class="text-2xl font-bold mb-1">Vérifier et s'abonner !</h2>
                 <p class="text-gray-400">Économisez avec la facturation annuelle - 96 $ de réduction (24 $/mois)</p>
               </div>
               
